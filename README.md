@@ -1,6 +1,8 @@
 # FLWSB
 Flexible LoRaWAN Sensor Board - Hardware design
 
+this project was built upon a previous iteration. You can find the full documentation of this here: https://github.com/Dacetylan/FLWSB?fbclid=IwAR1HLporIOgVgvebDwlQVPCnp9HiQH27QhrYqrgZZ_8g4kAjzjsdf1E0I3I
+
 # Mistakes that were corrected
 - In the previous version of the FLWSB the RX an TX lines were connected incorrectly to the LoraWan module. In the new version the RX and TX lines were connected correctly.
 - In the previous version there was a mistake in the silkscreen. Pin "PA09" had to be "PA07". This mistake was corrected in the new version.
