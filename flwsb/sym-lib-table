@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "KMR221G-LFS")(type "Legacy")(uri "${KIPRJMOD}/libs/footprints/KMR221G-LFS/KMR221G-LFS.lib")(options "")(descr ""))
+  (lib (name "RN2483")(type "Legacy")(uri "${KIPRJMOD}/libs/footprints/RN2483/RN2483.lib")(options "")(descr ""))
+)

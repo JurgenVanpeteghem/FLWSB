@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/libs/footprints")(options "")(descr ""))
+  (lib (name "KMR7_CNK")(type "KiCad")(uri "${KIPRJMOD}/libs/footprints/KMR221G-LFS/footprints.pretty")(options "")(descr ""))
+  (lib (name "RN2483")(type "KiCad")(uri "${KIPRJMOD}/libs/footprints/RN2483")(options "")(descr ""))
+)
